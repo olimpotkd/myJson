@@ -1,21 +1,25 @@
 {
   "users": [
     {
+      "id": 1,
       "name": "Carlos",
       "lastname": "Reynoso",
       "username": "creynoso"
     },
     {
+      "id": 2,
       "name": "Holly",
       "lastname": "Tate",
       "username": "htate"
     },
     {
+      "id": 3,
       "name": "Chris",
       "lastname": "Ox",
       "username": "cox"
     },
     {
+      "id": 4,
       "name": "Phillip",
       "lastname": "Trine",
       "username": "ptrine"
