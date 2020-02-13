@@ -1,1 +1,24 @@
-ECHO is on.
+{
+  "users": [
+    {
+      "name": "Carlos",
+      "lastname": "Reynoso",
+      "username": "creynoso"
+    },
+    {
+      "name": "Holly",
+      "lastname": "Tate",
+      "username": "htate"
+    },
+    {
+      "name": "Chris",
+      "lastname": "Ox",
+      "username": "cox"
+    },
+    {
+      "name": "Phillip",
+      "lastname": "Trine",
+      "username": "ptrine"
+    },
+  ]
+}
